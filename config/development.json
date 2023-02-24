@@ -1,0 +1,6 @@
+{
+  "ny_times_url": "https://api.nytimes.com/svc/books/v3",
+  "ny_times_api_key": "",
+  "googleapis_url": "https://www.googleapis.com",
+  "google_api_key": ""
+}

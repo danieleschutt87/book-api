@@ -1,0 +1,17 @@
+{
+  "name": "book-api",
+  "version": "1.0.0",
+  "description": "api that exposes books lists from NY Times and retrieves books from a specified list, decorating the response with a preview from googleapis",
+  "main": "index.js",
+  "scripts": {
+    "start-api": "NODE_ENV=development node index.js"
+  },
+  "author": "Daniele Schutt",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.3.4",
+    "body-parser": "^1.20.2",
+    "config": "^3.3.9",
+    "express": "^4.18.2"
+  }
+}
